@@ -2,21 +2,25 @@
   {
     "name": "Just 47",
     "amount": 289000,
-    "id": "J46"
+    "id": "J46",
+    "img": "https://fourthelement.com/wp-content/uploads/2024/06/orange-expedition-drybag-24-600x600.jpg"
   },
   {
     "name": "Movement 86",
     "amount": 450000,
-    "id": "M86"
+    "id": "M86",
+    "img": "https://fourthelement.com/wp-content/uploads/2024/06/orange-expedition-drybag-24-600x600.jpg"
   },
   {
     "name": "Kaung gyi",
     "amount": 10000,
-    "id": "Kg13"
+    "id": "Kg13",
+    "img": "https://fourthelement.com/wp-content/uploads/2024/06/orange-expedition-drybag-24-600x600.jpg"
   },
   {
     "name": "helli",
-    "amount": "တောသားတွေ ",
-    "id": "hl13"
+    "amount": 90000,
+    "id": "hl13",
+    "img": "https://fourthelement.com/wp-content/uploads/2024/06/orange-expedition-drybag-24-600x600.jpg"
   }
 ]
